@@ -1,0 +1,32 @@
+# frontend-vuejs
+frontend-vuejs/logs
+frontend-vuejs/*.log
+frontend-vuejs/npm-debug.log*
+frontend-vuejs/yarn-debug.log*
+frontend-vuejs/yarn-error.log*
+frontend-vuejs/pnpm-debug.log*
+frontend-vuejs/lerna-debug.log*
+
+frontend-vuejs/node_modules
+frontend-vuejs/.DS_Store
+frontend-vuejs/dist
+frontend-vuejs/dist-ssr
+frontend-vuejs/coverage
+frontend-vuejs/*.local
+frontend-vuejs/.env
+
+frontend-vuejs/.vscode/*
+frontend-vuejs/!.vscode/extensions.json
+frontend-vuejs/.idea
+frontend-vuejs/*.suo
+frontend-vuejs/*.ntvs*
+frontend-vuejs/*.njsproj
+frontend-vuejs/*.sln
+frontend-vuejs/*.sw?
+
+# backend-expressjs
+backend-expressjs/node_modules
+backend-expressjs/logs
+backend-expressjs/*.log
+backend-expressjs/npm-debug.log*
+backend-expressjs/.env
